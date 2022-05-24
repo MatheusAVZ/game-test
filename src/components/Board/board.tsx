@@ -11,7 +11,7 @@ export function Board() {
       <Hero/>
       <MiniDemon/>
       <Demon/>
-    <img src='./Assets/tileset.gif' alt='Board' width={GAME_SIZE} height={GAME_SIZE}/>
+      <img src='./Assets/tileset.gif' alt='Board' width={GAME_SIZE} height={GAME_SIZE}/>
     </div>
   )
 }
