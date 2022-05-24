@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//matheusavz.github.io/game-test/static/css/main.ed928c69.css",
+    "main.js": "//matheusavz.github.io/game-test/static/js/main.2912e4e7.js",
+    "index.html": "//matheusavz.github.io/game-test/index.html",
+    "main.ed928c69.css.map": "//matheusavz.github.io/game-test/static/css/main.ed928c69.css.map",
+    "main.2912e4e7.js.map": "//matheusavz.github.io/game-test/static/js/main.2912e4e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed928c69.css",
+    "static/js/main.2912e4e7.js"
+  ]
+}
