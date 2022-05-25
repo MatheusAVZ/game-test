@@ -1,5 +1,5 @@
 import React from "react";
-import {MiniDemon, Hero, Trap, Demon, Chest } from '../index'
+import {MiniDemon, Hero, Trap, Demon, Chest, Trap2} from '../index'
 import { GAME_SIZE } from "../../settings/constants";
 
 
@@ -8,6 +8,7 @@ export function Board() {
     <div>
       <Chest/>
       <Trap/>
+      <Trap2/>
       <Hero/>
       <MiniDemon/>
       <Demon/>

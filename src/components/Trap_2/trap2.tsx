@@ -1,5 +1,5 @@
 import React from "react";
-import './trap.css'
+import './trap2.css'
 import { TILE_SIZE } from '../../settings/constants'
 
   export function Trap2() {

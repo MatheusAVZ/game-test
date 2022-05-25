@@ -1,1 +1,1 @@
-export * from './trap'
+export * from './trap2'
