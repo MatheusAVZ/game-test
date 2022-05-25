@@ -2,7 +2,7 @@ import React from "react";
 import './trap.css'
 import { TILE_SIZE } from '../../settings/constants'
 
-  export function Trap() {
+  export function Trap2() {
   return (
     <div 
       style={{
