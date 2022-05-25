@@ -12,7 +12,7 @@ import { DEMON_TILE_SIZE, TILE_SIZE } from '../../settings/constants'
           width: DEMON_TILE_SIZE ,
           height: DEMON_TILE_SIZE,
           backgroundRepeat: 'no-repeat',
-          backgroundImage: "url(./Assets/DEMON.png)",
+          backgroundImage: "url(./assets/DEMON.png)",
           animation: "demon-animation 1s steps(4) infinite"
       }}
     />

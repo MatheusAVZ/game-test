@@ -11,7 +11,7 @@ import { TILE_SIZE } from '../../settings/constants'
           left: TILE_SIZE * 5,
           width: TILE_SIZE,
           height: TILE_SIZE,
-          backgroundImage: "url(./Assets/TRAP.png)",
+          backgroundImage: "url(./assets/TRAP.png)",
           backgroundRepeat: 'no-repeat',
           animation: "trap-animation 1s steps(8) infinite"
       }}

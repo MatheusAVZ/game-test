@@ -13,7 +13,7 @@ import { TILE_SIZE,HEAD_OFFSET } from '../../settings/constants'
           height: TILE_SIZE + HEAD_OFFSET,
           backgroundPosition: `0px -${TILE_SIZE - HEAD_OFFSET}px`,
           backgroundRepeat: 'no-repeat',
-          backgroundImage: "url(./Assets/MINI-DEMON.png)",
+          backgroundImage: "url(./assets/MINI-DEMON.png)",
           animation: "mini-demon-animation 1s steps(4) infinite"
       }}
     />

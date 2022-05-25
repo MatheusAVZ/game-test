@@ -17,7 +17,7 @@ import { UseHeroMoviment } from '../hooks'
           height: TILE_SIZE + HEAD_OFFSET,
           backgroundRepeat: 'no-repeat',
           backgroundPosition: `0px -${TILE_SIZE - HEAD_OFFSET}px`,
-          backgroundImage: "url(./Assets/HERO.png)",
+          backgroundImage: "url(./assets/HERO.png)",
           animation: "hero-animation 1s steps(4) infinite",
           transform: `scaleX(${moviment.direction === 'right' ? 1 : -1})`
       }}

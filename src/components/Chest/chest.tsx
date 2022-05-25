@@ -12,7 +12,7 @@ import { TILE_SIZE } from '../../settings/constants'
           width: TILE_SIZE,
           height: TILE_SIZE,
           backgroundRepeat: 'no-repeat',
-          backgroundImage: "url(./Assets/CHEST.png)",
+          backgroundImage: "url(./assets/CHEST.png)",
           animation: "chest-animation 1s steps(3) infinite"
       }}
     />
